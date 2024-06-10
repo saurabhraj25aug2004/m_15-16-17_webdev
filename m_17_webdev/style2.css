@@ -1,0 +1,12 @@
+.heading{
+    color:blueviolet;
+    font-style: italic;
+}
+
+#middle,p{
+    color:brown;
+    font-style:oblique;
+}
+*{
+    background-color:rgb(255, 115, 0);
+}
